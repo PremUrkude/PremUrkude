@@ -45,16 +45,6 @@ I enjoy building **AI/ML solutions, full-stack applications, and Docker-based de
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PremUrkude&show_icons=true&theme=tokyonight" alt="GitHub stats"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PremUrkude&theme=tokyonight" alt="GitHub streak"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremUrkude&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</p>  
-
----
-
 ## 🤝 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/prem-urkude-2ba9b5259/">
@@ -67,4 +57,4 @@ I enjoy building **AI/ML solutions, full-stack applications, and Docker-based de
 
 ---
 
-✨ *“Code to solve, code to inspire.”*  
+✨ *“Building, learning, and pushing technology forward.”*  
